@@ -8,10 +8,11 @@ This repository contains the benchmarking scripts, test assets, and result logs 
 * **Precision:** `bfloat16` (Unquantized)
 * **Framework:** Hugging Face `transformers`
 
-## Repository Structure
+## Repository Files
 * **`Qwen3.5-9B.ipynb`**: The complete execution notebook containing the benchmark logic, image processing, and latency calculations.
-* **`/Screenshots`**: Contains terminal outputs validating the benchmark execution and final latency calculations.
-* **`/Tests`**: Contains the visual assets used for the prompt (Normal and Taggified screenshots), as well as the raw `latencies_100_calls.txt` data log.
+* **`latencies_100_calls.txt`**: The raw output log containing timing data for all 100 benchmark iterations.
+* **Benchmark Screenshots**: Terminal outputs validating the benchmark execution, fastest/slowest calls, and final averages.
+* **Visual Test Assets**: The normal and taggified UI screenshots used for both the "Click Cart" and "Fill Last Name" test cases.
 
 ## Methodology
 To ensure stability and rule out initialization or cold-start variances, the model was subjected to a comprehensive **100-call continuous benchmark** split across two distinct task types.
@@ -38,4 +39,4 @@ The continuous loop validated the baseline latency across both navigation and te
 * **Fastest Call:** 2.902s
 * **Slowest Call:** 4.601s
 
-*Raw latency data for all iterations can be found in `Tests/latencies_100_calls.txt`.*
+*Raw latency data for all iterations can be found in `latencies_100_calls.txt`.*
