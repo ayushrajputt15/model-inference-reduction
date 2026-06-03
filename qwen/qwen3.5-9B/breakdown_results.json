@@ -1,0 +1,1402 @@
+[
+  {
+    "image_load_ms": 190.75,
+    "tokenization_ms": 78.5,
+    "inference_ms": 2736.17,
+    "decode_ms": 0.2,
+    "total_ms": 3005.63
+  },
+  {
+    "image_load_ms": 105.6,
+    "tokenization_ms": 89.39,
+    "inference_ms": 2708.78,
+    "decode_ms": 0.19,
+    "total_ms": 2903.97
+  },
+  {
+    "image_load_ms": 113.87,
+    "tokenization_ms": 88.57,
+    "inference_ms": 2717.24,
+    "decode_ms": 0.21,
+    "total_ms": 2919.9
+  },
+  {
+    "image_load_ms": 122.57,
+    "tokenization_ms": 85.53,
+    "inference_ms": 2699.9,
+    "decode_ms": 0.19,
+    "total_ms": 2908.2
+  },
+  {
+    "image_load_ms": 130.31,
+    "tokenization_ms": 78.54,
+    "inference_ms": 2705.62,
+    "decode_ms": 0.21,
+    "total_ms": 2914.68
+  },
+  {
+    "image_load_ms": 507.95,
+    "tokenization_ms": 76.91,
+    "inference_ms": 2699.73,
+    "decode_ms": 0.2,
+    "total_ms": 3284.8
+  },
+  {
+    "image_load_ms": 98.6,
+    "tokenization_ms": 80.61,
+    "inference_ms": 2717.93,
+    "decode_ms": 0.18,
+    "total_ms": 2897.33
+  },
+  {
+    "image_load_ms": 97.53,
+    "tokenization_ms": 77.74,
+    "inference_ms": 2715.78,
+    "decode_ms": 0.19,
+    "total_ms": 2891.24
+  },
+  {
+    "image_load_ms": 139.79,
+    "tokenization_ms": 87.44,
+    "inference_ms": 2698.29,
+    "decode_ms": 0.17,
+    "total_ms": 2925.7
+  },
+  {
+    "image_load_ms": 110.87,
+    "tokenization_ms": 86.95,
+    "inference_ms": 2742.71,
+    "decode_ms": 0.22,
+    "total_ms": 2940.75
+  },
+  {
+    "image_load_ms": 99.27,
+    "tokenization_ms": 79.15,
+    "inference_ms": 2698.2,
+    "decode_ms": 0.2,
+    "total_ms": 2876.81
+  },
+  {
+    "image_load_ms": 99.08,
+    "tokenization_ms": 78.06,
+    "inference_ms": 2713.1,
+    "decode_ms": 0.18,
+    "total_ms": 2890.43
+  },
+  {
+    "image_load_ms": 154.82,
+    "tokenization_ms": 77.84,
+    "inference_ms": 2701.87,
+    "decode_ms": 0.2,
+    "total_ms": 2934.73
+  },
+  {
+    "image_load_ms": 102.85,
+    "tokenization_ms": 79.07,
+    "inference_ms": 2735.34,
+    "decode_ms": 0.19,
+    "total_ms": 2917.45
+  },
+  {
+    "image_load_ms": 93.5,
+    "tokenization_ms": 77.56,
+    "inference_ms": 2700.98,
+    "decode_ms": 0.22,
+    "total_ms": 2872.26
+  },
+  {
+    "image_load_ms": 98.76,
+    "tokenization_ms": 77.16,
+    "inference_ms": 2712.41,
+    "decode_ms": 0.25,
+    "total_ms": 2888.59
+  },
+  {
+    "image_load_ms": 122.07,
+    "tokenization_ms": 94.3,
+    "inference_ms": 2707.94,
+    "decode_ms": 0.21,
+    "total_ms": 2924.52
+  },
+  {
+    "image_load_ms": 97.42,
+    "tokenization_ms": 78.59,
+    "inference_ms": 2712.94,
+    "decode_ms": 0.19,
+    "total_ms": 2889.14
+  },
+  {
+    "image_load_ms": 100.29,
+    "tokenization_ms": 78.07,
+    "inference_ms": 2694.73,
+    "decode_ms": 0.19,
+    "total_ms": 2873.28
+  },
+  {
+    "image_load_ms": 105.13,
+    "tokenization_ms": 78.03,
+    "inference_ms": 2686.57,
+    "decode_ms": 0.18,
+    "total_ms": 2869.91
+  },
+  {
+    "image_load_ms": 125.79,
+    "tokenization_ms": 78.07,
+    "inference_ms": 2735.05,
+    "decode_ms": 0.19,
+    "total_ms": 2939.09
+  },
+  {
+    "image_load_ms": 109.81,
+    "tokenization_ms": 78.14,
+    "inference_ms": 2683.89,
+    "decode_ms": 0.17,
+    "total_ms": 2872.01
+  },
+  {
+    "image_load_ms": 109.64,
+    "tokenization_ms": 77.87,
+    "inference_ms": 2664.36,
+    "decode_ms": 0.2,
+    "total_ms": 2852.07
+  },
+  {
+    "image_load_ms": 89.57,
+    "tokenization_ms": 78.71,
+    "inference_ms": 2715.85,
+    "decode_ms": 0.19,
+    "total_ms": 2884.31
+  },
+  {
+    "image_load_ms": 124.58,
+    "tokenization_ms": 88.01,
+    "inference_ms": 2721.47,
+    "decode_ms": 0.19,
+    "total_ms": 2934.25
+  },
+  {
+    "image_load_ms": 274.12,
+    "tokenization_ms": 78.62,
+    "inference_ms": 2708.47,
+    "decode_ms": 0.18,
+    "total_ms": 3061.39
+  },
+  {
+    "image_load_ms": 106.76,
+    "tokenization_ms": 77.75,
+    "inference_ms": 2712.41,
+    "decode_ms": 0.2,
+    "total_ms": 2897.13
+  },
+  {
+    "image_load_ms": 105.68,
+    "tokenization_ms": 80.0,
+    "inference_ms": 2729.24,
+    "decode_ms": 0.2,
+    "total_ms": 2915.12
+  },
+  {
+    "image_load_ms": 127.97,
+    "tokenization_ms": 80.49,
+    "inference_ms": 2726.66,
+    "decode_ms": 0.2,
+    "total_ms": 2935.31
+  },
+  {
+    "image_load_ms": 149.31,
+    "tokenization_ms": 78.62,
+    "inference_ms": 2713.09,
+    "decode_ms": 0.18,
+    "total_ms": 2941.21
+  },
+  {
+    "image_load_ms": 101.62,
+    "tokenization_ms": 78.31,
+    "inference_ms": 2714.38,
+    "decode_ms": 0.19,
+    "total_ms": 2894.49
+  },
+  {
+    "image_load_ms": 136.33,
+    "tokenization_ms": 89.78,
+    "inference_ms": 2731.06,
+    "decode_ms": 0.18,
+    "total_ms": 2957.36
+  },
+  {
+    "image_load_ms": 124.96,
+    "tokenization_ms": 78.26,
+    "inference_ms": 2709.92,
+    "decode_ms": 0.2,
+    "total_ms": 2913.33
+  },
+  {
+    "image_load_ms": 102.7,
+    "tokenization_ms": 78.14,
+    "inference_ms": 2746.16,
+    "decode_ms": 0.18,
+    "total_ms": 2927.18
+  },
+  {
+    "image_load_ms": 110.7,
+    "tokenization_ms": 78.12,
+    "inference_ms": 2707.8,
+    "decode_ms": 0.19,
+    "total_ms": 2896.81
+  },
+  {
+    "image_load_ms": 95.06,
+    "tokenization_ms": 77.71,
+    "inference_ms": 2721.21,
+    "decode_ms": 0.21,
+    "total_ms": 2894.19
+  },
+  {
+    "image_load_ms": 130.01,
+    "tokenization_ms": 77.92,
+    "inference_ms": 2717.85,
+    "decode_ms": 0.19,
+    "total_ms": 2925.97
+  },
+  {
+    "image_load_ms": 122.86,
+    "tokenization_ms": 77.76,
+    "inference_ms": 2699.33,
+    "decode_ms": 0.18,
+    "total_ms": 2900.12
+  },
+  {
+    "image_load_ms": 105.0,
+    "tokenization_ms": 78.37,
+    "inference_ms": 2732.3,
+    "decode_ms": 0.19,
+    "total_ms": 2915.87
+  },
+  {
+    "image_load_ms": 92.34,
+    "tokenization_ms": 78.96,
+    "inference_ms": 2716.03,
+    "decode_ms": 0.21,
+    "total_ms": 2887.54
+  },
+  {
+    "image_load_ms": 123.79,
+    "tokenization_ms": 78.57,
+    "inference_ms": 2735.48,
+    "decode_ms": 0.21,
+    "total_ms": 2938.05
+  },
+  {
+    "image_load_ms": 110.95,
+    "tokenization_ms": 78.42,
+    "inference_ms": 2719.89,
+    "decode_ms": 0.18,
+    "total_ms": 2909.44
+  },
+  {
+    "image_load_ms": 104.92,
+    "tokenization_ms": 80.81,
+    "inference_ms": 2738.97,
+    "decode_ms": 0.18,
+    "total_ms": 2924.88
+  },
+  {
+    "image_load_ms": 96.47,
+    "tokenization_ms": 78.38,
+    "inference_ms": 2695.43,
+    "decode_ms": 0.2,
+    "total_ms": 2870.48
+  },
+  {
+    "image_load_ms": 149.78,
+    "tokenization_ms": 79.35,
+    "inference_ms": 2711.62,
+    "decode_ms": 0.2,
+    "total_ms": 2940.95
+  },
+  {
+    "image_load_ms": 90.64,
+    "tokenization_ms": 78.29,
+    "inference_ms": 2742.01,
+    "decode_ms": 0.22,
+    "total_ms": 2911.16
+  },
+  {
+    "image_load_ms": 115.01,
+    "tokenization_ms": 78.05,
+    "inference_ms": 2723.09,
+    "decode_ms": 0.19,
+    "total_ms": 2916.34
+  },
+  {
+    "image_load_ms": 99.22,
+    "tokenization_ms": 77.9,
+    "inference_ms": 2730.75,
+    "decode_ms": 0.17,
+    "total_ms": 2908.05
+  },
+  {
+    "image_load_ms": 116.99,
+    "tokenization_ms": 78.01,
+    "inference_ms": 2738.57,
+    "decode_ms": 0.2,
+    "total_ms": 2933.77
+  },
+  {
+    "image_load_ms": 113.15,
+    "tokenization_ms": 78.6,
+    "inference_ms": 2724.66,
+    "decode_ms": 0.21,
+    "total_ms": 2916.62
+  },
+  {
+    "image_load_ms": 105.54,
+    "tokenization_ms": 91.99,
+    "inference_ms": 2713.9,
+    "decode_ms": 0.2,
+    "total_ms": 2911.63
+  },
+  {
+    "image_load_ms": 111.52,
+    "tokenization_ms": 79.82,
+    "inference_ms": 2683.68,
+    "decode_ms": 0.22,
+    "total_ms": 2875.23
+  },
+  {
+    "image_load_ms": 137.25,
+    "tokenization_ms": 78.43,
+    "inference_ms": 2739.33,
+    "decode_ms": 0.2,
+    "total_ms": 2955.2
+  },
+  {
+    "image_load_ms": 100.28,
+    "tokenization_ms": 78.21,
+    "inference_ms": 2685.55,
+    "decode_ms": 0.18,
+    "total_ms": 2864.22
+  },
+  {
+    "image_load_ms": 108.69,
+    "tokenization_ms": 91.02,
+    "inference_ms": 2701.5,
+    "decode_ms": 0.19,
+    "total_ms": 2901.4
+  },
+  {
+    "image_load_ms": 115.63,
+    "tokenization_ms": 78.5,
+    "inference_ms": 2704.65,
+    "decode_ms": 0.21,
+    "total_ms": 2898.99
+  },
+  {
+    "image_load_ms": 183.04,
+    "tokenization_ms": 86.91,
+    "inference_ms": 2690.95,
+    "decode_ms": 0.21,
+    "total_ms": 2961.1
+  },
+  {
+    "image_load_ms": 110.78,
+    "tokenization_ms": 77.14,
+    "inference_ms": 2676.53,
+    "decode_ms": 0.23,
+    "total_ms": 2864.69
+  },
+  {
+    "image_load_ms": 108.44,
+    "tokenization_ms": 78.4,
+    "inference_ms": 2673.22,
+    "decode_ms": 0.2,
+    "total_ms": 2860.26
+  },
+  {
+    "image_load_ms": 100.8,
+    "tokenization_ms": 78.43,
+    "inference_ms": 2713.01,
+    "decode_ms": 0.19,
+    "total_ms": 2892.44
+  },
+  {
+    "image_load_ms": 158.11,
+    "tokenization_ms": 77.45,
+    "inference_ms": 2661.45,
+    "decode_ms": 0.19,
+    "total_ms": 2897.19
+  },
+  {
+    "image_load_ms": 100.39,
+    "tokenization_ms": 79.79,
+    "inference_ms": 2714.0,
+    "decode_ms": 0.25,
+    "total_ms": 2894.43
+  },
+  {
+    "image_load_ms": 126.23,
+    "tokenization_ms": 78.22,
+    "inference_ms": 2712.48,
+    "decode_ms": 0.19,
+    "total_ms": 2917.12
+  },
+  {
+    "image_load_ms": 95.35,
+    "tokenization_ms": 80.52,
+    "inference_ms": 2703.85,
+    "decode_ms": 0.17,
+    "total_ms": 2879.89
+  },
+  {
+    "image_load_ms": 131.83,
+    "tokenization_ms": 83.98,
+    "inference_ms": 2666.89,
+    "decode_ms": 0.17,
+    "total_ms": 2882.87
+  },
+  {
+    "image_load_ms": 95.21,
+    "tokenization_ms": 78.0,
+    "inference_ms": 2716.46,
+    "decode_ms": 0.21,
+    "total_ms": 2889.88
+  },
+  {
+    "image_load_ms": 97.89,
+    "tokenization_ms": 78.49,
+    "inference_ms": 2724.23,
+    "decode_ms": 0.21,
+    "total_ms": 2900.82
+  },
+  {
+    "image_load_ms": 123.22,
+    "tokenization_ms": 78.47,
+    "inference_ms": 2716.82,
+    "decode_ms": 0.19,
+    "total_ms": 2918.7
+  },
+  {
+    "image_load_ms": 124.79,
+    "tokenization_ms": 78.33,
+    "inference_ms": 2692.79,
+    "decode_ms": 0.18,
+    "total_ms": 2896.08
+  },
+  {
+    "image_load_ms": 107.08,
+    "tokenization_ms": 77.59,
+    "inference_ms": 2727.7,
+    "decode_ms": 0.17,
+    "total_ms": 2912.54
+  },
+  {
+    "image_load_ms": 105.88,
+    "tokenization_ms": 78.31,
+    "inference_ms": 2675.34,
+    "decode_ms": 0.2,
+    "total_ms": 2859.73
+  },
+  {
+    "image_load_ms": 96.94,
+    "tokenization_ms": 78.45,
+    "inference_ms": 2721.23,
+    "decode_ms": 0.19,
+    "total_ms": 2896.81
+  },
+  {
+    "image_load_ms": 173.15,
+    "tokenization_ms": 91.36,
+    "inference_ms": 2703.59,
+    "decode_ms": 0.17,
+    "total_ms": 2968.28
+  },
+  {
+    "image_load_ms": 95.48,
+    "tokenization_ms": 91.22,
+    "inference_ms": 2716.4,
+    "decode_ms": 0.19,
+    "total_ms": 2903.28
+  },
+  {
+    "image_load_ms": 108.01,
+    "tokenization_ms": 91.31,
+    "inference_ms": 2707.26,
+    "decode_ms": 0.19,
+    "total_ms": 2906.77
+  },
+  {
+    "image_load_ms": 96.17,
+    "tokenization_ms": 78.0,
+    "inference_ms": 2701.83,
+    "decode_ms": 0.19,
+    "total_ms": 2876.19
+  },
+  {
+    "image_load_ms": 129.53,
+    "tokenization_ms": 78.2,
+    "inference_ms": 2720.83,
+    "decode_ms": 0.19,
+    "total_ms": 2928.76
+  },
+  {
+    "image_load_ms": 113.0,
+    "tokenization_ms": 77.72,
+    "inference_ms": 2691.53,
+    "decode_ms": 0.2,
+    "total_ms": 2882.46
+  },
+  {
+    "image_load_ms": 98.33,
+    "tokenization_ms": 77.59,
+    "inference_ms": 2709.89,
+    "decode_ms": 0.2,
+    "total_ms": 2886.01
+  },
+  {
+    "image_load_ms": 116.87,
+    "tokenization_ms": 78.8,
+    "inference_ms": 2685.09,
+    "decode_ms": 0.25,
+    "total_ms": 2881.01
+  },
+  {
+    "image_load_ms": 145.41,
+    "tokenization_ms": 92.62,
+    "inference_ms": 2744.96,
+    "decode_ms": 0.19,
+    "total_ms": 2983.18
+  },
+  {
+    "image_load_ms": 110.91,
+    "tokenization_ms": 91.13,
+    "inference_ms": 2711.54,
+    "decode_ms": 0.2,
+    "total_ms": 2913.78
+  },
+  {
+    "image_load_ms": 126.64,
+    "tokenization_ms": 90.67,
+    "inference_ms": 2698.67,
+    "decode_ms": 0.19,
+    "total_ms": 2916.17
+  },
+  {
+    "image_load_ms": 112.61,
+    "tokenization_ms": 77.54,
+    "inference_ms": 2723.76,
+    "decode_ms": 0.19,
+    "total_ms": 2914.1
+  },
+  {
+    "image_load_ms": 131.37,
+    "tokenization_ms": 78.34,
+    "inference_ms": 2714.81,
+    "decode_ms": 0.19,
+    "total_ms": 2924.71
+  },
+  {
+    "image_load_ms": 107.46,
+    "tokenization_ms": 78.29,
+    "inference_ms": 2703.78,
+    "decode_ms": 0.2,
+    "total_ms": 2889.73
+  },
+  {
+    "image_load_ms": 99.3,
+    "tokenization_ms": 90.4,
+    "inference_ms": 2737.66,
+    "decode_ms": 0.19,
+    "total_ms": 2927.55
+  },
+  {
+    "image_load_ms": 106.38,
+    "tokenization_ms": 91.21,
+    "inference_ms": 2701.96,
+    "decode_ms": 0.17,
+    "total_ms": 2899.72
+  },
+  {
+    "image_load_ms": 143.85,
+    "tokenization_ms": 85.89,
+    "inference_ms": 2724.8,
+    "decode_ms": 0.2,
+    "total_ms": 2954.75
+  },
+  {
+    "image_load_ms": 529.62,
+    "tokenization_ms": 78.5,
+    "inference_ms": 2678.78,
+    "decode_ms": 0.19,
+    "total_ms": 3287.1
+  },
+  {
+    "image_load_ms": 92.14,
+    "tokenization_ms": 78.76,
+    "inference_ms": 2712.85,
+    "decode_ms": 0.21,
+    "total_ms": 2883.96
+  },
+  {
+    "image_load_ms": 105.71,
+    "tokenization_ms": 78.57,
+    "inference_ms": 2722.29,
+    "decode_ms": 0.2,
+    "total_ms": 2906.76
+  },
+  {
+    "image_load_ms": 127.29,
+    "tokenization_ms": 78.64,
+    "inference_ms": 2682.26,
+    "decode_ms": 0.19,
+    "total_ms": 2888.37
+  },
+  {
+    "image_load_ms": 127.26,
+    "tokenization_ms": 78.54,
+    "inference_ms": 2715.27,
+    "decode_ms": 0.19,
+    "total_ms": 2921.25
+  },
+  {
+    "image_load_ms": 98.7,
+    "tokenization_ms": 88.41,
+    "inference_ms": 2714.87,
+    "decode_ms": 0.19,
+    "total_ms": 2902.17
+  },
+  {
+    "image_load_ms": 119.55,
+    "tokenization_ms": 80.29,
+    "inference_ms": 2719.85,
+    "decode_ms": 0.17,
+    "total_ms": 2919.86
+  },
+  {
+    "image_load_ms": 126.54,
+    "tokenization_ms": 85.82,
+    "inference_ms": 2723.06,
+    "decode_ms": 0.18,
+    "total_ms": 2935.6
+  },
+  {
+    "image_load_ms": 103.72,
+    "tokenization_ms": 81.51,
+    "inference_ms": 2691.73,
+    "decode_ms": 0.19,
+    "total_ms": 2877.14
+  },
+  {
+    "image_load_ms": 119.15,
+    "tokenization_ms": 78.1,
+    "inference_ms": 2682.79,
+    "decode_ms": 0.19,
+    "total_ms": 2880.22
+  },
+  {
+    "image_load_ms": 105.82,
+    "tokenization_ms": 81.72,
+    "inference_ms": 2701.56,
+    "decode_ms": 0.2,
+    "total_ms": 2889.31
+  },
+  {
+    "image_load_ms": 115.2,
+    "tokenization_ms": 79.84,
+    "inference_ms": 4103.36,
+    "decode_ms": 0.2,
+    "total_ms": 4298.59
+  },
+  {
+    "image_load_ms": 76.06,
+    "tokenization_ms": 80.68,
+    "inference_ms": 4109.01,
+    "decode_ms": 0.2,
+    "total_ms": 4265.96
+  },
+  {
+    "image_load_ms": 79.52,
+    "tokenization_ms": 78.73,
+    "inference_ms": 4116.33,
+    "decode_ms": 0.22,
+    "total_ms": 4274.8
+  },
+  {
+    "image_load_ms": 102.69,
+    "tokenization_ms": 78.79,
+    "inference_ms": 4087.77,
+    "decode_ms": 0.2,
+    "total_ms": 4269.45
+  },
+  {
+    "image_load_ms": 92.25,
+    "tokenization_ms": 87.54,
+    "inference_ms": 4084.77,
+    "decode_ms": 0.2,
+    "total_ms": 4264.76
+  },
+  {
+    "image_load_ms": 81.34,
+    "tokenization_ms": 81.18,
+    "inference_ms": 4108.36,
+    "decode_ms": 0.2,
+    "total_ms": 4271.08
+  },
+  {
+    "image_load_ms": 119.84,
+    "tokenization_ms": 78.82,
+    "inference_ms": 4074.53,
+    "decode_ms": 0.21,
+    "total_ms": 4273.4
+  },
+  {
+    "image_load_ms": 101.4,
+    "tokenization_ms": 78.78,
+    "inference_ms": 4101.89,
+    "decode_ms": 0.19,
+    "total_ms": 4282.26
+  },
+  {
+    "image_load_ms": 107.71,
+    "tokenization_ms": 78.56,
+    "inference_ms": 4098.92,
+    "decode_ms": 0.18,
+    "total_ms": 4285.37
+  },
+  {
+    "image_load_ms": 121.32,
+    "tokenization_ms": 78.6,
+    "inference_ms": 4089.3,
+    "decode_ms": 0.21,
+    "total_ms": 4289.44
+  },
+  {
+    "image_load_ms": 89.92,
+    "tokenization_ms": 78.17,
+    "inference_ms": 4067.06,
+    "decode_ms": 0.2,
+    "total_ms": 4235.35
+  },
+  {
+    "image_load_ms": 86.9,
+    "tokenization_ms": 79.2,
+    "inference_ms": 4091.88,
+    "decode_ms": 0.2,
+    "total_ms": 4258.17
+  },
+  {
+    "image_load_ms": 109.57,
+    "tokenization_ms": 80.08,
+    "inference_ms": 4048.15,
+    "decode_ms": 0.2,
+    "total_ms": 4238.0
+  },
+  {
+    "image_load_ms": 81.19,
+    "tokenization_ms": 78.93,
+    "inference_ms": 4094.31,
+    "decode_ms": 0.19,
+    "total_ms": 4254.62
+  },
+  {
+    "image_load_ms": 84.32,
+    "tokenization_ms": 78.92,
+    "inference_ms": 4071.23,
+    "decode_ms": 0.32,
+    "total_ms": 4234.79
+  },
+  {
+    "image_load_ms": 98.36,
+    "tokenization_ms": 80.09,
+    "inference_ms": 4095.35,
+    "decode_ms": 0.19,
+    "total_ms": 4273.98
+  },
+  {
+    "image_load_ms": 77.06,
+    "tokenization_ms": 78.84,
+    "inference_ms": 4076.86,
+    "decode_ms": 0.21,
+    "total_ms": 4232.96
+  },
+  {
+    "image_load_ms": 87.86,
+    "tokenization_ms": 78.34,
+    "inference_ms": 4089.87,
+    "decode_ms": 0.2,
+    "total_ms": 4256.27
+  },
+  {
+    "image_load_ms": 115.97,
+    "tokenization_ms": 92.66,
+    "inference_ms": 4163.78,
+    "decode_ms": 0.22,
+    "total_ms": 4372.63
+  },
+  {
+    "image_load_ms": 89.26,
+    "tokenization_ms": 91.11,
+    "inference_ms": 4180.97,
+    "decode_ms": 0.21,
+    "total_ms": 4361.55
+  },
+  {
+    "image_load_ms": 88.22,
+    "tokenization_ms": 78.51,
+    "inference_ms": 4112.96,
+    "decode_ms": 0.21,
+    "total_ms": 4279.89
+  },
+  {
+    "image_load_ms": 99.44,
+    "tokenization_ms": 78.82,
+    "inference_ms": 4082.88,
+    "decode_ms": 0.21,
+    "total_ms": 4261.35
+  },
+  {
+    "image_load_ms": 102.02,
+    "tokenization_ms": 78.96,
+    "inference_ms": 4093.77,
+    "decode_ms": 0.22,
+    "total_ms": 4274.98
+  },
+  {
+    "image_load_ms": 87.6,
+    "tokenization_ms": 80.05,
+    "inference_ms": 4143.96,
+    "decode_ms": 0.23,
+    "total_ms": 4311.85
+  },
+  {
+    "image_load_ms": 109.11,
+    "tokenization_ms": 93.08,
+    "inference_ms": 4130.35,
+    "decode_ms": 0.2,
+    "total_ms": 4332.74
+  },
+  {
+    "image_load_ms": 107.96,
+    "tokenization_ms": 92.64,
+    "inference_ms": 4108.6,
+    "decode_ms": 0.21,
+    "total_ms": 4309.41
+  },
+  {
+    "image_load_ms": 93.45,
+    "tokenization_ms": 90.0,
+    "inference_ms": 4114.11,
+    "decode_ms": 0.22,
+    "total_ms": 4297.78
+  },
+  {
+    "image_load_ms": 114.63,
+    "tokenization_ms": 87.12,
+    "inference_ms": 4103.56,
+    "decode_ms": 0.19,
+    "total_ms": 4305.5
+  },
+  {
+    "image_load_ms": 102.5,
+    "tokenization_ms": 83.33,
+    "inference_ms": 4082.45,
+    "decode_ms": 0.33,
+    "total_ms": 4268.61
+  },
+  {
+    "image_load_ms": 84.38,
+    "tokenization_ms": 79.27,
+    "inference_ms": 4095.48,
+    "decode_ms": 0.2,
+    "total_ms": 4259.33
+  },
+  {
+    "image_load_ms": 217.87,
+    "tokenization_ms": 78.94,
+    "inference_ms": 4033.92,
+    "decode_ms": 0.18,
+    "total_ms": 4330.91
+  },
+  {
+    "image_load_ms": 80.8,
+    "tokenization_ms": 78.94,
+    "inference_ms": 4051.57,
+    "decode_ms": 0.21,
+    "total_ms": 4211.52
+  },
+  {
+    "image_load_ms": 77.35,
+    "tokenization_ms": 78.92,
+    "inference_ms": 4090.4,
+    "decode_ms": 0.2,
+    "total_ms": 4246.87
+  },
+  {
+    "image_load_ms": 123.25,
+    "tokenization_ms": 78.32,
+    "inference_ms": 4080.29,
+    "decode_ms": 0.23,
+    "total_ms": 4282.09
+  },
+  {
+    "image_load_ms": 89.36,
+    "tokenization_ms": 89.15,
+    "inference_ms": 4061.1,
+    "decode_ms": 0.2,
+    "total_ms": 4239.8
+  },
+  {
+    "image_load_ms": 99.54,
+    "tokenization_ms": 91.93,
+    "inference_ms": 4105.07,
+    "decode_ms": 0.2,
+    "total_ms": 4296.74
+  },
+  {
+    "image_load_ms": 104.18,
+    "tokenization_ms": 92.04,
+    "inference_ms": 4110.18,
+    "decode_ms": 0.2,
+    "total_ms": 4306.6
+  },
+  {
+    "image_load_ms": 92.57,
+    "tokenization_ms": 92.07,
+    "inference_ms": 4051.99,
+    "decode_ms": 0.21,
+    "total_ms": 4236.84
+  },
+  {
+    "image_load_ms": 77.58,
+    "tokenization_ms": 92.65,
+    "inference_ms": 4082.92,
+    "decode_ms": 0.19,
+    "total_ms": 4253.33
+  },
+  {
+    "image_load_ms": 99.14,
+    "tokenization_ms": 91.31,
+    "inference_ms": 4126.64,
+    "decode_ms": 0.21,
+    "total_ms": 4317.3
+  },
+  {
+    "image_load_ms": 90.97,
+    "tokenization_ms": 88.78,
+    "inference_ms": 4092.95,
+    "decode_ms": 0.2,
+    "total_ms": 4272.89
+  },
+  {
+    "image_load_ms": 114.2,
+    "tokenization_ms": 89.1,
+    "inference_ms": 4115.49,
+    "decode_ms": 0.21,
+    "total_ms": 4318.99
+  },
+  {
+    "image_load_ms": 102.35,
+    "tokenization_ms": 87.53,
+    "inference_ms": 4111.28,
+    "decode_ms": 0.2,
+    "total_ms": 4301.36
+  },
+  {
+    "image_load_ms": 91.7,
+    "tokenization_ms": 91.95,
+    "inference_ms": 4133.74,
+    "decode_ms": 0.19,
+    "total_ms": 4317.58
+  },
+  {
+    "image_load_ms": 88.73,
+    "tokenization_ms": 80.74,
+    "inference_ms": 4162.17,
+    "decode_ms": 0.2,
+    "total_ms": 4331.84
+  },
+  {
+    "image_load_ms": 108.08,
+    "tokenization_ms": 79.68,
+    "inference_ms": 4099.21,
+    "decode_ms": 0.22,
+    "total_ms": 4287.2
+  },
+  {
+    "image_load_ms": 89.43,
+    "tokenization_ms": 79.75,
+    "inference_ms": 4129.86,
+    "decode_ms": 0.2,
+    "total_ms": 4299.25
+  },
+  {
+    "image_load_ms": 82.39,
+    "tokenization_ms": 79.55,
+    "inference_ms": 4097.07,
+    "decode_ms": 0.2,
+    "total_ms": 4259.22
+  },
+  {
+    "image_load_ms": 99.36,
+    "tokenization_ms": 78.53,
+    "inference_ms": 4091.95,
+    "decode_ms": 0.21,
+    "total_ms": 4270.05
+  },
+  {
+    "image_load_ms": 86.19,
+    "tokenization_ms": 87.36,
+    "inference_ms": 4139.25,
+    "decode_ms": 0.21,
+    "total_ms": 4313.0
+  },
+  {
+    "image_load_ms": 82.18,
+    "tokenization_ms": 80.15,
+    "inference_ms": 4131.57,
+    "decode_ms": 0.21,
+    "total_ms": 4294.11
+  },
+  {
+    "image_load_ms": 99.35,
+    "tokenization_ms": 79.22,
+    "inference_ms": 4151.74,
+    "decode_ms": 0.2,
+    "total_ms": 4330.5
+  },
+  {
+    "image_load_ms": 121.11,
+    "tokenization_ms": 79.54,
+    "inference_ms": 4121.84,
+    "decode_ms": 0.23,
+    "total_ms": 4322.72
+  },
+  {
+    "image_load_ms": 99.54,
+    "tokenization_ms": 79.32,
+    "inference_ms": 4120.38,
+    "decode_ms": 0.18,
+    "total_ms": 4299.42
+  },
+  {
+    "image_load_ms": 105.57,
+    "tokenization_ms": 81.55,
+    "inference_ms": 4133.57,
+    "decode_ms": 0.18,
+    "total_ms": 4320.87
+  },
+  {
+    "image_load_ms": 100.8,
+    "tokenization_ms": 79.36,
+    "inference_ms": 4115.26,
+    "decode_ms": 0.21,
+    "total_ms": 4295.62
+  },
+  {
+    "image_load_ms": 109.18,
+    "tokenization_ms": 79.18,
+    "inference_ms": 4051.42,
+    "decode_ms": 0.23,
+    "total_ms": 4240.0
+  },
+  {
+    "image_load_ms": 123.21,
+    "tokenization_ms": 79.52,
+    "inference_ms": 4125.25,
+    "decode_ms": 0.24,
+    "total_ms": 4328.22
+  },
+  {
+    "image_load_ms": 95.79,
+    "tokenization_ms": 81.1,
+    "inference_ms": 4103.87,
+    "decode_ms": 0.2,
+    "total_ms": 4280.96
+  },
+  {
+    "image_load_ms": 122.24,
+    "tokenization_ms": 79.42,
+    "inference_ms": 4124.71,
+    "decode_ms": 0.23,
+    "total_ms": 4326.6
+  },
+  {
+    "image_load_ms": 118.94,
+    "tokenization_ms": 92.33,
+    "inference_ms": 4108.69,
+    "decode_ms": 0.22,
+    "total_ms": 4320.18
+  },
+  {
+    "image_load_ms": 99.0,
+    "tokenization_ms": 91.8,
+    "inference_ms": 4115.76,
+    "decode_ms": 0.22,
+    "total_ms": 4306.78
+  },
+  {
+    "image_load_ms": 115.29,
+    "tokenization_ms": 92.52,
+    "inference_ms": 4173.09,
+    "decode_ms": 0.23,
+    "total_ms": 4381.12
+  },
+  {
+    "image_load_ms": 119.05,
+    "tokenization_ms": 80.25,
+    "inference_ms": 4120.57,
+    "decode_ms": 0.22,
+    "total_ms": 4320.09
+  },
+  {
+    "image_load_ms": 91.14,
+    "tokenization_ms": 96.73,
+    "inference_ms": 4126.55,
+    "decode_ms": 0.21,
+    "total_ms": 4314.63
+  },
+  {
+    "image_load_ms": 91.97,
+    "tokenization_ms": 93.69,
+    "inference_ms": 4142.33,
+    "decode_ms": 0.22,
+    "total_ms": 4328.22
+  },
+  {
+    "image_load_ms": 114.69,
+    "tokenization_ms": 88.85,
+    "inference_ms": 4080.5,
+    "decode_ms": 0.2,
+    "total_ms": 4284.23
+  },
+  {
+    "image_load_ms": 85.85,
+    "tokenization_ms": 78.83,
+    "inference_ms": 4127.64,
+    "decode_ms": 0.23,
+    "total_ms": 4292.55
+  },
+  {
+    "image_load_ms": 103.89,
+    "tokenization_ms": 85.84,
+    "inference_ms": 4142.27,
+    "decode_ms": 0.21,
+    "total_ms": 4332.21
+  },
+  {
+    "image_load_ms": 127.29,
+    "tokenization_ms": 93.39,
+    "inference_ms": 4116.91,
+    "decode_ms": 0.23,
+    "total_ms": 4337.82
+  },
+  {
+    "image_load_ms": 99.52,
+    "tokenization_ms": 91.84,
+    "inference_ms": 4112.58,
+    "decode_ms": 0.21,
+    "total_ms": 4304.14
+  },
+  {
+    "image_load_ms": 112.81,
+    "tokenization_ms": 91.02,
+    "inference_ms": 4108.93,
+    "decode_ms": 0.36,
+    "total_ms": 4313.12
+  },
+  {
+    "image_load_ms": 106.25,
+    "tokenization_ms": 91.78,
+    "inference_ms": 4164.04,
+    "decode_ms": 0.2,
+    "total_ms": 4362.27
+  },
+  {
+    "image_load_ms": 76.47,
+    "tokenization_ms": 81.0,
+    "inference_ms": 4130.95,
+    "decode_ms": 0.2,
+    "total_ms": 4288.62
+  },
+  {
+    "image_load_ms": 79.73,
+    "tokenization_ms": 79.3,
+    "inference_ms": 4130.88,
+    "decode_ms": 0.21,
+    "total_ms": 4290.13
+  },
+  {
+    "image_load_ms": 101.55,
+    "tokenization_ms": 92.88,
+    "inference_ms": 4107.19,
+    "decode_ms": 0.2,
+    "total_ms": 4301.81
+  },
+  {
+    "image_load_ms": 105.77,
+    "tokenization_ms": 88.59,
+    "inference_ms": 4130.29,
+    "decode_ms": 0.2,
+    "total_ms": 4324.85
+  },
+  {
+    "image_load_ms": 91.4,
+    "tokenization_ms": 79.47,
+    "inference_ms": 4127.92,
+    "decode_ms": 0.18,
+    "total_ms": 4298.98
+  },
+  {
+    "image_load_ms": 112.14,
+    "tokenization_ms": 79.88,
+    "inference_ms": 4124.92,
+    "decode_ms": 0.19,
+    "total_ms": 4317.13
+  },
+  {
+    "image_load_ms": 81.17,
+    "tokenization_ms": 84.49,
+    "inference_ms": 4107.45,
+    "decode_ms": 0.2,
+    "total_ms": 4273.31
+  },
+  {
+    "image_load_ms": 91.34,
+    "tokenization_ms": 80.41,
+    "inference_ms": 4093.56,
+    "decode_ms": 0.2,
+    "total_ms": 4265.51
+  },
+  {
+    "image_load_ms": 106.99,
+    "tokenization_ms": 79.45,
+    "inference_ms": 4111.72,
+    "decode_ms": 0.2,
+    "total_ms": 4298.36
+  },
+  {
+    "image_load_ms": 93.29,
+    "tokenization_ms": 79.19,
+    "inference_ms": 4100.26,
+    "decode_ms": 0.2,
+    "total_ms": 4272.94
+  },
+  {
+    "image_load_ms": 92.41,
+    "tokenization_ms": 79.25,
+    "inference_ms": 4138.6,
+    "decode_ms": 0.21,
+    "total_ms": 4310.47
+  },
+  {
+    "image_load_ms": 121.99,
+    "tokenization_ms": 79.25,
+    "inference_ms": 4126.33,
+    "decode_ms": 0.22,
+    "total_ms": 4327.8
+  },
+  {
+    "image_load_ms": 92.07,
+    "tokenization_ms": 78.89,
+    "inference_ms": 4128.53,
+    "decode_ms": 0.27,
+    "total_ms": 4299.76
+  },
+  {
+    "image_load_ms": 85.63,
+    "tokenization_ms": 80.14,
+    "inference_ms": 4162.42,
+    "decode_ms": 0.19,
+    "total_ms": 4328.38
+  },
+  {
+    "image_load_ms": 96.28,
+    "tokenization_ms": 79.7,
+    "inference_ms": 4115.66,
+    "decode_ms": 0.21,
+    "total_ms": 4291.86
+  },
+  {
+    "image_load_ms": 75.09,
+    "tokenization_ms": 79.09,
+    "inference_ms": 4094.92,
+    "decode_ms": 0.2,
+    "total_ms": 4249.3
+  },
+  {
+    "image_load_ms": 82.23,
+    "tokenization_ms": 79.27,
+    "inference_ms": 4049.83,
+    "decode_ms": 0.22,
+    "total_ms": 4211.55
+  },
+  {
+    "image_load_ms": 100.94,
+    "tokenization_ms": 79.82,
+    "inference_ms": 4124.09,
+    "decode_ms": 0.22,
+    "total_ms": 4305.07
+  },
+  {
+    "image_load_ms": 85.21,
+    "tokenization_ms": 79.66,
+    "inference_ms": 4128.1,
+    "decode_ms": 0.2,
+    "total_ms": 4293.17
+  },
+  {
+    "image_load_ms": 92.11,
+    "tokenization_ms": 89.77,
+    "inference_ms": 4101.81,
+    "decode_ms": 0.21,
+    "total_ms": 4283.9
+  },
+  {
+    "image_load_ms": 102.92,
+    "tokenization_ms": 79.85,
+    "inference_ms": 4181.46,
+    "decode_ms": 0.21,
+    "total_ms": 4364.44
+  },
+  {
+    "image_load_ms": 75.75,
+    "tokenization_ms": 89.73,
+    "inference_ms": 4123.6,
+    "decode_ms": 0.2,
+    "total_ms": 4289.28
+  },
+  {
+    "image_load_ms": 79.27,
+    "tokenization_ms": 79.65,
+    "inference_ms": 4134.12,
+    "decode_ms": 0.2,
+    "total_ms": 4293.24
+  },
+  {
+    "image_load_ms": 107.66,
+    "tokenization_ms": 80.39,
+    "inference_ms": 4081.45,
+    "decode_ms": 0.22,
+    "total_ms": 4269.71
+  },
+  {
+    "image_load_ms": 89.85,
+    "tokenization_ms": 94.82,
+    "inference_ms": 4164.71,
+    "decode_ms": 0.2,
+    "total_ms": 4349.59
+  },
+  {
+    "image_load_ms": 88.96,
+    "tokenization_ms": 93.51,
+    "inference_ms": 4135.86,
+    "decode_ms": 0.2,
+    "total_ms": 4318.54
+  },
+  {
+    "image_load_ms": 122.37,
+    "tokenization_ms": 87.32,
+    "inference_ms": 4123.27,
+    "decode_ms": 0.21,
+    "total_ms": 4333.17
+  }
+]
